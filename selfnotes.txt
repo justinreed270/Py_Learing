@@ -1,0 +1,30 @@
+#notes on:
+# - pull/merge GitHub repository and local machine.
+# -push local stuff to github.com
+
+____________________________________
+# pull - system should auto merge if needed
+git pull
+
+# Ferch all remotes- useful if you are working on fork or in another use case with multiple remotes
+git pull --all
+
+#keep main up to date
+# run a git pull command before pushing or creating a branch. this could cause not desired results.
+
+______________________________________
+# PUSH
+
+#1: open terminal
+
+#2: navigate to local root repository folder (ex: ~/Py_learning/)
+
+#3:stage the file for commit to local repository. # Adds the file to your local repository and stages it for commit. To unstage a file, use 'git reset HEAD YOUR-FILE'.
+$ git add .
+
+#4:Commit the file that you've staged in local repo.# Adds the file to your local repository and stages it for commit. To unstage a file, use 'git reset HEAD YOUR-FILE'.
+$ git commit -m "<small note>"
+
+$5: Push changes in your local repo to GitHub.com# Pushes the changes in your local repository up to the remote repository you specified as the origin
+$ git pus origin <branch name> #ex: main
+
