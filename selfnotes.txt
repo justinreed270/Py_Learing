@@ -26,5 +26,5 @@ $ git add .
 $ git commit -m "<small note>"
 
 $5: Push changes in your local repo to GitHub.com# Pushes the changes in your local repository up to the remote repository you specified as the origin
-$ git pus origin <branch name> #ex: main
+$ git push origin <branch name> #ex: main
 
