@@ -1,0 +1,68 @@
+Machine learning is a subset of AI.
+Example:
+    create a program to scan an image to tell weather it is a cat or dog.
+
+How it works:
+    build a model or ingine and give it lots and lots of data.
+    1,000s or 10s of 1,000s of photos of dogs and cats.
+
+Other applications:
+    self-driving cars
+    Robotics
+    Language Processing
+    Vision Processing
+    Forecasting Stock Market Trends *** crypto???
+    games
+
+*****MACHINE LEARNING IN ACTION:*****
+Steps:
+    1) Import the Data
+        .csv files (most of the time)
+    2) Clean the Data
+        remove duplicates
+        remove irrelevant
+        remove/edit incomplete data
+        if text dased, convert to numerical values
+            countries, names, places, etc.
+            this really depends on the kind of data we are working with
+    3)Split the Data int Training/Test Sets
+        example: you can use 80% of the photos for training
+            and 20% of the photos for test.
+    4) Create a Model
+        selecting an algorithm to analyse the data
+        Machine Learning algorithms:
+            Decision Trees
+            Neuro networks/Newworld Networks?
+            Side-Kick Learn?
+    5) Train the Model
+    6)  ask it to Make predictions
+    7) Evaluate and improve the predictions
+
+***** LIBRARIES AND TOOLS FOR MACHINE LEARNING****
+LIBRARIES (popular in ML projects)
+    -Numpy - provides multi dimensional array
+    -Pandas - data analysis lib - provides a "Data Frame" (2D structure, similar to an excel spreadsheet)
+    -MatPlotlib - 2d plotting library used for creating graphs and plots
+    -Scikit-Learn - machine learning algorithm
+
+In machine learning, we use an environment called Jupyter for writting code.
+(Technically, you can use any IDE for machine learning. Jupyter is designed
+around ML and provides features that other IDEs don't.)
+See install.txt to learn how to install Jupyter
+
+***LAUNCH JUPYTER ENVIRONMENT***
+1. Open terminal
+2. run:
+    Jupyter notebook
+3. This starts the notebook server on local machine
+    automatically opens browser pointing to:
+    localhost:8888/tree #Dashboard
+4. opens in your local home dir
+    navigate to where your machine learning package is.
+5. good to go.
+
+****LOAD DATA SET FROM CSV FILE IN JUPYTER****
+1. download data set
+    in this case from www.kaggle.com - a place to do data science projects
+    -create kaggle account
+

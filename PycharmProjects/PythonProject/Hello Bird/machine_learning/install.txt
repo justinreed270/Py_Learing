@@ -1,0 +1,52 @@
+****INSTALLING JUPYTER****
+my_specs:
+    Early 2011 MacBook Pro
+    13 inch screen
+    Ubuntu 20.04
+
+1. anaconda.com/download
+2. scroll down and select the desired link for your system
+3. I am selecting the Linux:
+    64-Bit (x86) Installer (581 MB)
+    I recieved a warning - I selected to keep the program
+4. open terminal
+5. navigate to where the filed downloaded
+6. run:
+    bash ./<anaconda_installer.sh>
+7. follow prompts in terminal to complete install
+8. upon completion you should see:
+
+
+****************************************
+    installation finished.
+Do you wish the installer to initialize Anaconda3
+by running conda init? [yes|no]
+[no] >>>
+
+You have chosen to not have conda modify your shell scripts at all.
+To activate conda's base environment in your current shell session:
+
+eval "$(/home/justin/anaconda3/bin/conda shell.YOUR_SHELL_NAME hook)"
+
+To install conda's shell functions for easier access, first activate, then:
+
+conda init
+
+If you'd prefer that conda's base environment not be activated on startup,
+   set the auto_activate_base parameter to false:
+
+conda config --set auto_activate_base false
+
+Thank you for installing Anaconda3!
+
+===========================================================================
+
+Working with Python and Jupyter notebooks is a breeze with PyCharm Pro,
+designed to be used with Anaconda. Download now and have the best data
+tools at your fingertips.
+
+PyCharm Pro for Anaconda is available at: https://www.anaconda.com/pycharm
+**************************************
+
+
+

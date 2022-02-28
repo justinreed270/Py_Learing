@@ -1,0 +1,33 @@
+My first real machine learning project.
+
+We have an online music store.
+When users sign up we ask:
+    -age
+    -gender
+Based on their profile, we present them with music albums they are more likely to buy.
+
+Goal:
+    Use machine learning to increase sales.
+
+Problem to solve:
+    Users want suggestions. We need to make suggestions to the user.
+
+What we will do:
+Build a model.
+Feed model data based on existing users.
+Model will learn the patern in the data so to make predictions.
+When a new user signs up, we tell our model and ask it what types of music does the user like.
+The model will say:
+    -jazz
+    -hiphop
+    -or whatever.
+Based on that we can make suggestions to the user.
+
+Steps:
+1. import the data - https://bit.ly/music-csv
+2. clean the data
+3. split the data into Training/Test Sets
+4. Create a Model
+5. Train the Model
+6. Make Predictions
+7. Evaluate and Improve

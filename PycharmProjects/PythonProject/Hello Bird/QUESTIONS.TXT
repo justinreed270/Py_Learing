@@ -3,3 +3,10 @@ What do you want to automate?
 How do you want to use python to make your life easier?
 
 Consider Openpyxl, pypi.org, and more.
+
+What ideas do you have for machine learning?
+
+What types of problems do you want to solve with machine learning?
+
+
+
