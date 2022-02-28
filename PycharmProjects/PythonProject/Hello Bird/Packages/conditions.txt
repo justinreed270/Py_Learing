@@ -1,0 +1,5 @@
+ecommerce found in ../ is part of . exercises.
+
+in order to convert ../ecommerce into a package, there must be a special file in it:
+    __init__.py
+python treats any dir with this file as a package.

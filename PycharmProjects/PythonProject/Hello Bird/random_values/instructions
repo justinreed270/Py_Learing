@@ -1,0 +1,6 @@
+1. define a class called
+    Dice
+2. method called
+    roll()
+3. every time you roll
+    we get a tuple of 2 random values
