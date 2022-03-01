@@ -1,0 +1,4 @@
+*** KEY WORDS IN PYTHON***
+and, del, if, pass, as, elif, import, raise, assert, else, in, return,
+async, except, is, True, await, False, lambda, try, break, finally, none,
+while, class, for, nonlocal, with, continue, from, not, yield, def, global, or.
