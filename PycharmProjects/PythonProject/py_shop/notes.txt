@@ -1,0 +1,6 @@
+We use Django when it comes to building a website because:
+    it has many building blocks that we don't have to spend time to create
+    Django's framework has many features prebuilt in.
+    **A framework defines a structure for out applications**
+
+
