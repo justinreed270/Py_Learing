@@ -1,0 +1,2 @@
+follow below guidelines when working with databases:
+    https://peps.python.org/pep-0249/

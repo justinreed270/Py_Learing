@@ -1,0 +1,8 @@
+Time module documentation:
+    https://docs.python.org/3/library/time.html
+
+World time map:
+    https://upload.wikimedia.org/wikipedia/commons/8/88/World_Time_Zones_Map.png
+
+Date and Time module:
+    https://docs.python.org/3/library/datetime.html

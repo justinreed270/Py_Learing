@@ -1,0 +1,20 @@
+word_search-exercise.py:
+    Lesson 29
+    page 273
+    create a tool for searching through a file
+    some code is already given
+    ***
+
+simple_write-exercise.py:
+    Lesson 30
+    page 278
+    learn the relationship between modes and writing.
+
+
+list_creator.py
+    create a module that allows you to maintain a list of items
+    Lesson 31
+    page 280
+
+
+

@@ -1,0 +1,13 @@
+Die.py:
+    Lesson 47 - Adding a Rol() method to Die
+    page 481
+
+Simulation.py:
+    Lesson 48 - Properties
+    Page 491
+
+WeightedDie.py:
+    Lesson 50 - Extending the Die Class
+    Page 506
+    issues with book examples to work
+

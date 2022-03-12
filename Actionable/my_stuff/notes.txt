@@ -2,3 +2,25 @@
 and, del, if, pass, as, elif, import, raise, assert, else, in, return,
 async, except, is, True, await, False, lambda, try, break, finally, none,
 while, class, for, nonlocal, with, continue, from, not, yield, def, global, or.
+
+
+
+*** UNDERSTANDING THE '__MAIN__' VARIABLE***
+https://www.webucator.com/article/understanding-pythons-__main__-variable/
+
+
+*** MODULE SEARCH PATH FOR IMPORTING MODULES***
+1. local directory of <myfile>.py
+2.The library of standard modules:
+    https://docs.python.org/3/tutorial/modules.html#standard-modules
+3. Paths defined in sys.path. run in python shell:
+    >>> import sys
+    >>> sys.path
+
+*** FUNCTIONS VS METHODS***
+function - print() (no object needed)
+method - It's the same, except it's called on an object.
+    object_name.method.name()
+    brother ='casey'
+    brother.upper()
+

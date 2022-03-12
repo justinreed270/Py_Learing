@@ -1,0 +1,5 @@
+PEP8:
+    official style for python code.
+    https://www.python.org/dev/peps/pep-0008/
+pylint:
+    software used to help identify potential problems with PEP8

@@ -1,0 +1,55 @@
+remove_random.py: (Lesson 16)
+    program needs to remove and returns a random element in the passed-in-list: the_list
+
+    Desired output:
+        The removed color was green.
+        The remaining colors are: ['red', 'blue', 'yellow']
+
+
+roshambo.py: (Lesson17)
+    main() function should do the following:
+        -creates an element with 'Rock', 'Paper', 'Scissors',
+        -makes a random choice and stores it in a variable
+        -prompts the user for:
+            1 - rock
+            2 - paper
+            3 - scissors
+        -prints out the user's choice and the computer's choice
+
+    Desired output:
+        1 for Rock, 2 for Paper, 3 for Scissors: 1
+        Computer: Scissors
+        User: Rock
+
+slicing_exercise.py:
+    lesson18 found on page 135.
+    ***
+
+gradepoints_exercise.py: (Lesson19)
+    main():
+        Creates an empty dictionary.
+        Populate the dictionary it with the class (key) as the user is prompted.
+        Grades are entered by the user for the following:
+            - English
+            - Math
+            - Global Studies
+            - Art
+            - Music
+        Program will determine the average grade and print it out.
+
+    Desired Output:
+        English grade: x
+        Math grade: x
+        Global Studies grade: x
+        Art grade: x
+        Music grade: x
+        Your average is: x
+
+    Challenge:
+        Ask the user if he/she would like to make any changes.
+        If no:
+            End program with a message.
+        If yes:
+            Prompts to the user is expected.
+            Print out the new average.
+            How will your code handel errors? - not part of original exercise.

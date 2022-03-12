@@ -1,0 +1,9 @@
+requirements.txt:
+    Lesson21
+    1. create and activate a virtual environment
+    2. install a package
+    3. create a requirements.txt
+    4.deactivate and delete the virtual environment
+    5 recreate the virtual environment with requirements.txt
+
+    see page 161 in Actionable by Nat Dunn for additional details and how to.

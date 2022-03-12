@@ -1,0 +1,23 @@
+************* Module departure_report
+departure_report.py:70:0: C0304: Final newline missing (missing-final-newline)
+departure_report.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+departure_report.py:3:0: C0116: Missing function or method docstring (missing-function-docstring)
+departure_report.py:5:47: C0103: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+departure_report.py:32:12: E0602: Undefined variable 'date_planned' (undefined-variable)
+departure_report.py:32:26: E0602: Undefined variable 'date_actual' (undefined-variable)
+departure_report.py:12:18: W0613: Unused argument 'line' (unused-argument)
+departure_report.py:34:0: C0116: Missing function or method docstring (missing-function-docstring)
+departure_report.py:43:0: C0116: Missing function or method docstring (missing-function-docstring)
+departure_report.py:43:15: W0613: Unused argument 'departure' (unused-argument)
+departure_report.py:46:0: C0116: Missing function or method docstring (missing-function-docstring)
+departure_report.py:46:14: W0613: Unused argument 'departure' (unused-argument)
+departure_report.py:49:0: C0116: Missing function or method docstring (missing-function-docstring)
+departure_report.py:49:18: W0613: Unused argument 'departure' (unused-argument)
+departure_report.py:52:0: C0116: Missing function or method docstring (missing-function-docstring)
+departure_report.py:52:16: W0613: Unused argument 'departure' (unused-argument)
+departure_report.py:55:0: C0116: Missing function or method docstring (missing-function-docstring)
+departure_report.py:1:0: W0611: Unused datetime imported from datetime (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 2.35/10 (previous run: 2.35/10, +0.00)
+

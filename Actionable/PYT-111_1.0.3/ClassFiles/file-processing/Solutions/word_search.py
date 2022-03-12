@@ -5,6 +5,7 @@ def search(word, text):
             return line
     return None
 
+
 def main():
     with open('my_files/zen_of_python.txt') as f:
         zop = f.readlines()

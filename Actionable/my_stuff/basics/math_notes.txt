@@ -1,0 +1,22 @@
+
+Python's build in math functions:
+https://docs.python.org/3/library/functions.html
+
+Python's math module:
+https://docs.python.org/3/library/math.html
+
+*** MATH MODULE ***
+help(math)
+
+math.e
+https://en.wikipedia.org/wiki/Natural_logarithm
+
+*** RANDOM MODULE ***
+https://docs.python.org/3/library/random.html
+random.random() - between 0 and 1
+random.randint(a,b) - between and including a dn b
+.randrange(10) - between 0 and 9
+.randrange(1,10,2) - between 1 and 9 with step of 2
+.choice(seq) - returns a random value in sequence
+.shuffle(seq) - shuffles sequence
+.seed(a) - allows for more accurate testing. (same results) 

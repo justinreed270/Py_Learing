@@ -1,0 +1,12 @@
+list_comp-exercise.py:
+    Lesson 33
+    page 318
+
+exercise-sorting.py:
+    Lesson 36
+    page 351
+    list.sort() to sorted(iterable)
+
+exercise-converting_date_string_to_datetime.py:
+    Lesson 37 - Converting a string to a datetime.date Object
+    page 357

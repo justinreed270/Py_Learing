@@ -1,0 +1,40 @@
+.join()
+regular expression within python environment
+module vs packages concepts : when to use one over the other
+    Lesson 38
+    https://docs.python.org/3/howto/regex.html
+
+Lesson 16 - testing and debugging:
+    testing in general
+    install a sql on system:
+        connecting to database via python
+        test connections with unittest module:
+            https://docs.python.org/3/library/unittest.html
+        test_beatles.py
+    understand the relationship:
+        test and
+        class
+    creating fixtures
+
+
+
+working in python's virtual environment:
+
+Lesson17 - Classes and Objects:
+    Lesson 47
+    creating classes with the purpose of being imported
+    creating a test script
+    @property
+    setters
+    getters
+    Lesson 47 - Documenting Classes
+    Extending a class:
+        Could not get book examples to work
+    Subclasses
+    @decorator
+    @staticmethod
+    @classmethod
+    @abc.abstractmethod
+
+
+

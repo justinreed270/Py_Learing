@@ -1,0 +1,9 @@
+global_variable.py
+    global variables are okay.
+
+fn_parms.py
+    Using arguments when you call a function is better.
+    Build your functions is such a way that utilizes parameters.
+    Functions with parameters are way better than using global vars.
+    arguments - (THE VALUE) what is typed in when the function is being called
+    parameter - (THE VARIABLE) the code that allows the user to input arguments when the function is being called.

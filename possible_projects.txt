@@ -1,0 +1,8 @@
+1. Build a script to search a folder using regular expression.
+2. Build a GUI that makes it easy to search file names and file content.
+3. Build a tool that gets data from an HTML table and uses it to create a list of lists (matrix).
+    -Scraping the web
+4. Use Pygame to create a video game.
+    https://www.pygame.org/docs/
+        -at the time of typing, this site is down.
+5.

@@ -1,0 +1,25 @@
+Create a virtual environment with python:
+    -nav to where you want the virtual environment to be.
+    -to create:
+        python -m venv .venv
+        or
+        python3 -m venv .venv
+    - to activate:
+        source .venv/bin/activate
+    -see path:
+        win:
+            $Env:PATH
+            echo %PATH%
+        unix:
+            echo $PATH
+    -to deactivate:
+        deactivate
+
+Install packages from PyPi with pip:
+    pip install <package>
+
+
+Put a list of all the installed packages in a txt file:
+    -This helps to recreate a virtual environment if needed.
+    - pip freeze > my_ve_package_list.txt
+        ensure this is stored in the parent folder
